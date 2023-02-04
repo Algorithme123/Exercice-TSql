@@ -3,10 +3,15 @@
 
 Dans votre entreprise vous avez une base de données de gestion comportant une table
 utilisateur, produit, catégorie des produits, facture et détails facture.
-A. En tant que DBA, mettez en place une structure vous permettant de retrouver toutes
+
+#### A.
+En tant que DBA, mettez en place une structure vous permettant de retrouver toutes
 les données supprimées dans la table utilisateur. Une donnée supprimée peut être
 celle mise à jour ou effectivement supprimée.
-B. Vous avez remarqué que les utilisateurs exécutent beaucoup la requête permettant
+
+
+#### B.
+Vous avez remarqué que les utilisateurs exécutent beaucoup la requête permettant
 de sortir les détails d’une facture :
  Numéro de la facture ;
  Date de la facture ;
